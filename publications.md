@@ -7,7 +7,7 @@ Publications
 4. J Grilli, **G Barabás**, MJ Michalska-Smith, S Allesina (2017). Higher-order interactions stabilize dynamics in competitive network models. *Nature* 548: 210-213
 5. J Grilli, M Adorioso, S Suweis, **G Barabás**, JR Banavar, S Allesina, A Maritan (2017). Feasibility and coexistence of large ecological communities. *Nature Communications* 8: 14389, doi: 10.1038/ncomms14389
 6. **G Barabás**, R D'Andrea (2016). [The effect of intraspecific variation and heritability on community pattern and robustness.](./publications/intravar_final.pdf) *Ecology Letters* 19: 977-986
-7. **G Barabás**, MJ Michalska-Smith, S Allesina (2016). [The effect of intra- and interspecific competition on coexistence in multispecies communities.](./publications/intra-inter_final.pdf) *American Naturalist* 188(1): E1-E12
+7. **G Barabás**, MJ Michalska-Smith, S Allesina (2016). [The effect of intra- and interspecific competition on coexistence in multispecies communities.](./publications/intrainter_final.pdf) *American Naturalist* 188(1): E1-E12
 8. **G Barabás**, S Allesina (2015). [Predicting global community properties from uncertain estimates of interaction strengths.](./publications/binnedmatrix_final.pdf) *Journal of the Royal Society Interface* 12: 20150218, doi: 10.1098/rsif.2015.0218
 9. S Allesina, J Grilli, **G Barabás**, S Tang, J Aljadeff, A Maritan (2015). Predicting the stability of large structured food webs. *Nature Communications* 6: 7842, doi: 10.1038/ncomms8842
 10. J Grilli, **G Barabás**, S Allesina (2015). Metapopulation persistence in random fragmented landscapes. *PLoS Computational Biology* 11(5): e1004251, doi: 10.1371/journal.pcbi.1004251
