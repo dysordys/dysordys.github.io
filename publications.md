@@ -4,7 +4,7 @@ Publications
 * **G Barabás**, R D'Andrea, S Maccracken Stump (2018). [Chesson's coexistence theory.](./publications/chesson_final.pdf) *Ecological Monographs* 88: 277-303, doi: 10.1002/ecm.1302
 * R Rael, R D'Andrea, **G Barabás**, A Ostling (2018). Emergent niche structuring leads to increased differences from neutrality in species abundance distributions. *Ecology* 99: 1633-1643, doi: 10.1002/ecy.2238
 * **G Barabás**, MJ Michalska-Smith, S Allesina (2017). [Self-regulation and the stability of large ecological networks.](./publications/diagonal_final.pdf) *Nature Ecology & Evolution* 1: 1870-1875, doi: 10.1038/s41559-017-0357-6
-*J Grilli, **G Barabás**, MJ Michalska-Smith, S Allesina (2017). Higher-order interactions stabilize dynamics in competitive network models. *Nature* 548: 210-213
+*J Grilli, **G Barabás**, MJ Michalska-Smith, S Allesina (2017). [Higher-order interactions stabilize dynamics in competitive network models.](./publications/higherorder_final.pdf) *Nature* 548: 210-213
 * J Grilli, M Adorioso, S Suweis, **G Barabás**, JR Banavar, S Allesina, A Maritan (2017). Feasibility and coexistence of large ecological communities. *Nature Communications* 8: 14389, doi: 10.1038/ncomms14389
 * **G Barabás**, R D'Andrea (2016). [The effect of intraspecific variation and heritability on community pattern and robustness.](./publications/intravar_final.pdf) *Ecology Letters* 19: 977-986
 * **G Barabás**, MJ Michalska-Smith, S Allesina (2016). [The effect of intra- and interspecific competition on coexistence in multispecies communities.](./publications/intrainter_final.pdf) *American Naturalist* 188(1): E1-E12
