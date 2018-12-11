@@ -25,5 +25,5 @@ Publications
 Reviews and opinion pieces
 --------------------------
 
-* **G Barabás** (2017). [The coexistence problem revisited.](./publications/news_and_views.pdf) News & Views, *Nature Ecology & Evolution* 1: 1425-1426, doi: 10.1038/s41559-017-0335-z
-* **G Barabás** (2017). [*Theory-Based Ecology: A Darwinian Approach* by Liz Pásztor, Zoltán Botta-Dukát, Gabriella Magyar, Tamás Czárán, and Géza Meszéna.](./publications/review.pdf) *The Quarterly Review of Biology* 92: 180-181
+* **G Barabás** (2017). [The coexistence problem revisited.](./publications/neenav_final.pdf) News & Views, *Nature Ecology & Evolution* 1: 1425-1426, doi: 10.1038/s41559-017-0335-z
+* **G Barabás** (2017). [*Theory-Based Ecology: A Darwinian Approach* by Liz Pásztor, Zoltán Botta-Dukát, Gabriella Magyar, Tamás Czárán, and Géza Meszéna.](./publications/qrb_final.pdf.pdf) *The Quarterly Review of Biology* 92: 180-181
