@@ -17,7 +17,7 @@ Publications
 * **G Barabás**, R D'Andrea, R Rael, G Meszéna, A Ostling (2013). [Emergent neutrality or hidden niches?](./publications/vergnon_final.pdf) *Oikos* 122: 1565-1572
 * **G Barabás**, A Ostling (2013). [Community robustness in discrete-time periodic environments.](./publications/disc_final.pdf) *Ecological Complexity*, 15: 122-130
 * **G Barabás**, R D'Andrea, A Ostling (2013). [Species packing in nonsmooth competition models.](./publications/kinky_final.pdf) *Theoretical Ecology*, 6: 1-19
-* R D'Andrea, **G Barabás**, A Ostling (2013). Revising the tolerance-fecundity trade-off; or, on the consequences of discontinuous resource use for limiting similarity, species diversity, and trait dispersion. *American Naturalist* 181: E91-101
+* R D'Andrea, **G Barabás**, A Ostling (2013).[Revising the tolerance-fecundity trade-off; or, on the consequences of discontinuous resource use for limiting similarity, species diversity, and trait dispersion.](./publications/tfm_final.pdf) *American Naturalist* 181: E91-101
 * **G Barabás**, S Pigolotti, M Gyllenberg, U Dieckmann, G Meszéna (2012). [Continuous coexistence or discrete species? A new review of an old question.](./publications/contcoex_final.pdf) *Evolutionary Ecology Research* 14: 523-554
 * **G Barabás**, G Meszéna, A Ostling (2012). [Community robustness and limiting similarity in periodic environments.](./publications/cycle_final.pdf) *Theoretical Ecology* 5: 265-282
 * **G Barabás**, G Meszéna (2009). [When the exception becomes the rule: the disappearance of limiting similarity in the Lotka-Volterra model.](./publications/packing_final.pdf) *Journal of Theoretical Biology*, 258: 89-94
